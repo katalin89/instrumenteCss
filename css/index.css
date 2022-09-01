@@ -1,0 +1,56 @@
+img{
+    display: block;
+    width: 150px;
+}
+body{
+    background-color:rgb(153, 213, 213);
+}
+.mezzoforte{
+    border:  2px solid red ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.isntrumente{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+header{
+    border-bottom: 4px solid greenyellow;
+}
+
+.container1{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.container2{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container3{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    background-color: darkcyan;
+    justify-content: space-between;
+    color :white;
+}
